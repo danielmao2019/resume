@@ -35,19 +35,19 @@
 %----------------------------------------------------------------------------------------
 
 \def \phone #1 { \def\@phone{#1} }
-\def \@phone {\faPhone \ (519) 729-4955}
+\def \@phone {\faPhone\ (519) 729-4955}
 
 \def \email #1 { \def\@email{#1} }
-\def \@email {\href{mailto:d6mao@uwaterloo.ca}{\faEnvelopeO \ daniel.mao@uwaterloo.ca}}
+\def \@email {\href{mailto:d6mao@uwaterloo.ca}{\faEnvelopeO\ daniel.mao@uwaterloo.ca}}
 
 \def \linkedin #1 { \def\@linkedin{#1} }
-\def \@linkedin {\href{https://www.linkedin.com/in/daniel-mao-a1895420a/}{\faLinkedin \ LinkedIn}}
+\def \@linkedin {\href{https://www.linkedin.com/in/daniel-mao-a1895420a/}{\faLinkedin\ LinkedIn}}
 
 \def \website #1 { \def\@website{#1} }
-\def \@website {\href{https://student.cs.uwaterloo.ca/~d6mao/}{\faGlobe \ WebSite}}
+\def \@website {\href{https://student.cs.uwaterloo.ca/~d6mao/}{\faGlobe\ WebSite}}
 
 \def \github #1 { \def\@github{#1} }
-\def \@github {\href{https://github.com/danielmao2019}{\faGithub \ GitHub}}
+\def \@github {\href{https://github.com/danielmao2019}{\faGithub\ GitHub}}
 
 \def \addressSep {$\diamond$} % Set default address separator to a diamond
 
@@ -89,8 +89,9 @@
 \def\printinfo
 {
     \begin{tabular}{lcr}
-        \namesize\bf DAYOU MAO & \hspace*{1cm} & \@phone \; \@email \\
-        4B Computer Science Student @ University of Waterloo & \hspace*{\fill} & \@github \; \@linkedin \; \@website
+        \namesize\bf DAYOU MAO & \hspace*{0.9cm} & \@phone \; \@email \\
+        4B Computer Science Student @ University of Waterloo & \hspace*{\fill} &
+        \@github \hspace*{0.4cm} \@linkedin \hspace*{0.4cm} \@website
     \end{tabular}
 }
 
