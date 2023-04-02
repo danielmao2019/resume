@@ -1,4 +1,21 @@
-# Resumes of Daniel Mao
+# Resume Update Notes
 
 * resume_0.[0-9].pdf are for resumes used before my 1st industry job.
-* resume_2.[0-9].pdf are for resumes used before my 3rd industry job.
+
+## Resume 2.x
+
+* Sep 19, 2022. `resume_2.0.pdf`
+    * resume before my 3rd industry job.
+* Oct 16, 2022. `resume_2.1.pdf`
+    * moved CO URA to research section.
+* Jan 05, 2023. `resume_2.2.pdf`
+    * rewords.
+* Jan 14, 2023. `resume_2.3.pdf`
+    * added VIP research.
+
+## Resume 3.x
+
+* Apr 02, 2023. `resume_3.0.pdf`
+    * combined research experience and work experience,
+    * added more to VIP research,
+    * rewords.
