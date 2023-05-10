@@ -1,4 +1,4 @@
-version=3.0
+version=3.1
 mv resume.pdf resume_${version}.pdf
 cp resume_${version}.pdf resume_Daniel_Mao.pdf
 git add resume.tex resume_${version}.pdf resume_Daniel_Mao.pdf

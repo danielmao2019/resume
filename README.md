@@ -19,3 +19,5 @@
     * combined research experience and work experience,
     * added more to VIP research,
     * rewords.
+* May 10, 2023. `resume_3.1.pdf`
+    * minor updates.
