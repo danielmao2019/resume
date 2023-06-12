@@ -21,3 +21,9 @@
     * rewords.
 * May 10, 2023. `resume_3.1.pdf`
     * minor updates.
+* Jun 12, 2023. `resume_3.2.pdf`
+    * created publications section
+    * added CoreAVI job
+    * modified VIP job
+    * moved CO research to bottom
+    * deleted projects section
