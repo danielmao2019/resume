@@ -27,3 +27,5 @@
     * modified VIP job
     * moved CO research to bottom
     * deleted projects section
+* Jun 21, 2023. `resume_3.3.pdf`
+    * reordered work/research experiences
